@@ -1,6 +1,9 @@
-Js Hello World Demo
-===================
+JavaScript Modify Parent Element From "iframe" Demo
+===================================================
 
-Open `index.html` in your browser.
+```
+npm install
+npm run demo
+```
 
-You will see "Hello, JS!" on the page.
+![demo](./images/demo.jpg)
